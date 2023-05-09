@@ -116,8 +116,10 @@ text-align: center;
     }
 #Avaliação img
   {
-  max-width: auto;
-  max-height: 150px;
+  max-width: 900px;
+  width: auto;
+  max-height: 200px;
+  height: auto;
   box-shadow: 0px 1px 3px rgb(0, 0, 0, 1); ;
   }
 
